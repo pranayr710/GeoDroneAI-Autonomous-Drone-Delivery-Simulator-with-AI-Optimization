@@ -1,0 +1,5 @@
+[
+  {"zone":"Z1","incidents":2,"unsafeRatio":0.03},
+  {"zone":"Z2","incidents":15,"unsafeRatio":0.25},
+  {"zone":"Z3","incidents":30,"unsafeRatio":0.55}
+]
